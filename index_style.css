@@ -1,0 +1,170 @@
+.nav{
+    background-color : rgb(23, 23, 104);
+    font-size : 35px;
+    word-spacing : 10px;
+    overflow : hidden;
+    padding-top : 10px;
+    padding-bottom : 10px;
+    padding-left : 10px;
+    padding-right : 10px;
+    margin : 0;
+}
+.nav a{
+    text-decoration : none;
+}
+.nav a:link,a:visited{
+    color : white;
+}
+.nav a:hover{
+    color : green;
+    font-size : 34px;
+}
+body 
+{
+    margin : 0;
+}
+.logo{
+    display: inline-block;
+    padding : 2px 2px 2px 2px;
+    margin : 0 3px 0 3px;
+    /* padding : auto; */
+}
+.home{
+    display: inline-block;
+    text-align : center;
+    padding-top : 5px;
+    padding-bottom : 5px;
+    padding-left : 5px;
+    padding-right : 5px;
+    margin : 0;
+}
+.about{
+    display: inline-block;
+    text-align : center;
+    padding-top : 5px;
+    padding-bottom : 5px;
+    padding-left : 5px;
+    padding-right : 5px;
+    margin : 0;
+}
+.contact{
+    display: inline-block;
+    text-align : center;
+    padding-top : 5px;
+    padding-bottom : 5px;
+    padding-left : 5px;
+    padding-right : 5px;
+}
+.buttons{
+    display: inline-block;
+    padding-top : 5px;
+    padding-bottom : 5px;
+    padding-left : 5px;
+    padding-right : 5px;
+    text-align : center;
+    font-family : Brush Script MT ;
+    margin : 3px 3px;
+}
+.mainpic{
+    background-image : url("wolf.jpg");
+    background-repeat : no-repeat;
+    background-position: center;
+    background-attachment: fixed;
+    height: 500px;
+}
+.mainpic img{
+    display : block;
+    margin-left : auto;
+    margin-right : auto;
+    padding-top : 50px;
+}
+.mainpic p{
+    color : white;
+    font-size: 50px;
+    text-align : center;
+    font-weight : 30px;
+    font-family : Edwardian Script ITC;
+    padding : 3px 3px 3px 3px;
+}
+
+.mainpic marquee{
+    color : white;
+    text-align: center;
+    font-weight : 30px;
+    font-size : 80px;
+    float : center;
+    align-items: center;
+    justify-content : center;
+    display : block;
+    margin-left : auto;
+    margin-right : auto;
+    word-spacing: 25px;
+    border-radius : 80px;
+}
+.left{
+    float : right;
+}
+.info
+{
+    background-color: cornsilk;
+    font-size: 30px;
+    padding-top : 150px;
+    padding-bottom : 150px;
+    text-align: center;
+}
+.huh{
+    word-spacing: 20px;
+    font-family: CountryBlueprint;
+    letter-spacing: 3px;
+}
+.he{
+    font-family : Matura MT Script Capitals;
+}
+.moving-binary-text{
+    background-image: url("waste4.jpg");
+    text-align: center;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: center;
+    height: 500px;
+    margin : 0;
+    padding : 0;
+}
+.moving-binary-text marquee{
+    color : black;
+    font-size: 30px;
+    font-family: Goudy Stout;
+    margin-left : 80px;
+    float : left;
+    padding : 0;
+}
+.m2{
+    padding-top: 100px;
+    text-align : center;
+    margin : 0;
+}
+.m3{
+    text-align: left;
+}
+.video-yt
+{
+    background-color : black;
+}
+.video-yt iframe{
+    padding-top : 30px;
+    padding-bottom : 30px;
+    display : block;
+    margin : 0 auto;
+}
+.foot
+{
+    text-align : center!important;
+    background-color : #343A40;
+    color : #F8F9FA;
+    margin : 0;
+}
+.foot p{
+     font-size : 20px;
+     padding : 16px 15px;
+     margin : 0;
+}

@@ -1,0 +1,122 @@
+ .about-pic
+{
+    background-image: url("h10.jpg");
+    background-repeat: no-repeat;
+    /* background-size : 1800px 800px; */
+    background-position: center;
+    background-attachment: fixed;
+    
+    
+}
+.dummy
+{
+    height : 500px;
+    width : 500px;
+    /* border-radius : 1000px; */
+    /* padding-top: 30px; */
+    background-color: transparent;
+}
+h1
+{
+    color : #070707;
+    font-weight: 300;
+    font-size : 60px;
+    font-family: Lato;
+    line-height : 1.1em;
+    text-align: center;
+    margin : 0;
+}
+.about23 h2
+{
+    color : #6B8778;
+    font-weight: 300;
+    text-align: center;
+    font-size : 30px;
+}
+.about23,.p1{
+    font-size : 18px;
+    font-family: Lato;
+    margin : 20px 0 20px 40px;
+    letter-spacing: 0.1em;
+    text-align: center;
+}
+.about23
+{
+    margin : 0;
+    background-color: whitesmoke;
+    /* width: 100%; */
+    padding : 50px;
+}
+ul
+{
+    clear : both;
+    list-style-position: inside;
+    text-align : center;
+    list-style-type: none;
+}
+.about33
+{
+    float : left;
+    background-color: white;
+    padding-top : 80px;
+    margin : 10px 20px 10px 20px;
+    margin-left : 140px;
+    padding-left : 40px;
+    padding-right : 40px;
+    padding-bottom : 80px;
+    margin-right : 180px
+}
+.about33 h1{
+    font-size : 40px;
+    margin : 10px 10px 30px 10px;
+}
+.about33 p{
+    font-size: 20px;
+    text-align: center ;
+    font-family: CountryBlueprint;
+    font-weight : bold;
+}
+.pic2{
+    display : block;
+    margin : 10px 20px 10px 20px;
+    margin-left : 50px;
+}
+.extra{
+    justify-content: center;
+    align-items: center;
+    float : center;
+    margin-top: 0;
+    margin-bottom : 0;
+}
+.about33 img{
+    display : block;
+    margin : 0 auto;
+    /* margin-left : 30px; */
+    margin-top : 60px;
+    margin-bottom : 60px;
+}
+.author{
+    font-weight: bolder;
+    font-size : 20px;
+}
+q{
+    font-family: Blackadder ITC;
+    font-size : 30px;
+}
+#skill-head{
+    text-align: center;
+    padding-top : 40px;
+    margin-bottom : 30px;
+    font-size : 35px;
+}
+.skills ul 
+{
+    font-size : 25px;
+    font-family: Arial;
+}
+.skills{
+    color : black;
+    background-color : lavenderblush;
+    margin : 0;
+    padding : 30px 30px 30px 30px;
+}
