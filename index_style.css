@@ -1,7 +1,7 @@
 .nav{
     background-color : rgb(23, 23, 104);
     font-size : 35px;
-    word-spacing : 10px;
+    word-spacing : 20px;
     overflow : hidden;
     padding-top : 10px;
     padding-bottom : 10px;
@@ -10,24 +10,16 @@
     margin : 0;
     position: sticky;
 }
-.nav a{
-    text-decoration : none;
-}
-.nav a:link,a:visited{
-    color : white;
-}
-.nav a:hover{
-    color : green;
-    font-size : 34px;
-}
+
 body 
 {
     margin : 0;
 }
 .logo{
-    display: inline-block;
+    /* display: block; */
     padding : 2px 2px 2px 2px;
     margin : 0 3px 0 3px;
+    float : left;
     /* padding : auto; */
 }
 .home{
@@ -168,4 +160,14 @@ body
      font-size : 20px;
      padding : 16px 15px;
      margin : 0;
+}
+.nav a{
+    text-decoration : none;
+}
+.nav a:link,a:visited{
+    color : white;
+}
+.nav a:hover{
+    color : green;
+    font-size : 34px;
 }
