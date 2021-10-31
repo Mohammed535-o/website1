@@ -54,3 +54,9 @@ table,th,td{
     margin-top : 70px;
     margin-left : 1200px;
 }
+.hmm a,a:link,a:visited{
+    color : white;
+}
+.hmm a:hover{
+    color : greenyellow;
+}
